@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Dima1\source\repos\ProjectTypeDefsizet\ProjectTypeDefsizet\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ProjectTypeDefsizet.vcxproj -> C:\Users\Dima1\source\repos\ProjectTypeDefsizet\Release\ProjectTypeDefsizet.exe
