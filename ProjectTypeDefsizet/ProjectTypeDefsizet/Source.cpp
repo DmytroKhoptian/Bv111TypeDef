@@ -37,16 +37,14 @@ ull_t sum(ull_t a, ull_t b) {
 }
 
 
-
 unsigned long long num1 = 10l;
 ull_t num2 = 100l;
-
 
 
 void main()
 {
  
-	setlocale(LC_ALL, "Russian");
+	setlocale(LC_ALL, "");
 	cout << "Привет";
 	cout << "\n";
 	system("pause");
