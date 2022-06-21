@@ -31,7 +31,7 @@ float sum(float a, float b) {
 
 	return a - b;
 }
-ull_t sum(ull_t a, ull_t b) {
+ull_t sum(ull_t a, ull_t b) {//aaaaaaaaτττττττττττττ
 
 	return a - b;
 }
